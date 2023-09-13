@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Swetha Megavannan
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend Development
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me: https://www.linkedin.com/in/swetha-megavannan-a6484a213/
